@@ -1,2 +1,3 @@
-# seo-test-1
-Sturdy Eureka Valetudinarianism Ocelot Catheter
+# SEO Test 1
+
+This is an SEO test
